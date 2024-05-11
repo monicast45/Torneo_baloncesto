@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "663fcd5069fb03cabaceeb9e"
+  },
+  "id": 20,
+  "id_encuentro": 1,
+  "etapa": "Cuartos de Final",
+  "equipo_ganador": "Equipo A"
+},
+{
+  "_id": {
+    "$oid": "663fcd5069fb03cabaceeb9f"
+  },
+  "id": 21,
+  "id_encuentro": 2,
+  "etapa": "Cuartos de Final",
+  "equipo_ganador": "Equipo D"
+},
+{
+  "_id": {
+    "$oid": "663fcd5069fb03cabaceeba0"
+  },
+  "id": 22,
+  "id_encuentro": 3,
+  "etapa": "Cuartos de Final",
+  "equipo_ganador": "Equipo f"
+},
+{
+  "_id": {
+    "$oid": "663fcd5069fb03cabaceeba1"
+  },
+  "id": 23,
+  "id_encuentro": 4,
+  "etapa": "Cuartos de Final",
+  "equipo_ganador": "Equipo G"
+},
+{
+  "_id": {
+    "$oid": "663fcd5069fb03cabaceeba2"
+  },
+  "id": 24,
+  "id_encuentro": 5,
+  "etapa": "Semifinal",
+  "equipo_ganador": "Equipo D"
+},
+{
+  "_id": {
+    "$oid": "663fcd5069fb03cabaceeba3"
+  },
+  "id": 25,
+  "id_encuentro": 6,
+  "etapa": "Semifinal",
+  "equipo_ganador": "Equipo F"
+},
+{
+  "_id": {
+    "$oid": "663fcd5069fb03cabaceeba4"
+  },
+  "id": 26,
+  "id_encuentro": 7,
+  "etapa": "final",
+  "equipo_ganador": "Equipo F"
+}]

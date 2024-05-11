@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "663fcac969fb03cabaceeb94"
+  },
+  "id": 1,
+  "nombre_equipo1": "Equipo A",
+  "nombre_equipo2": "Equipo B",
+  "arbitro": " Katherine Tipaz Calpa",
+  "marcador_equipo1": 3,
+  "marcador_equipo2": 1
+},
+{
+  "_id": {
+    "$oid": "663fcac969fb03cabaceeb95"
+  },
+  "id": 2,
+  "nombre_equipo1": "Equipo C",
+  "nombre_equipo2": "Equipo D",
+  "arbitro": "Hernan Mejia Serrano",
+  "marcador_equipo1": 2,
+  "marcador_equipo2": 4
+},
+{
+  "_id": {
+    "$oid": "663fcac969fb03cabaceeb96"
+  },
+  "id": 3,
+  "nombre_equipo1": "Equipo E",
+  "nombre_equipo2": "Equipo F",
+  "arbitro": "Tatiana Goyes",
+  "marcador_equipo1": 2,
+  "marcador_equipo2": 3
+},
+{
+  "_id": {
+    "$oid": "663fcac969fb03cabaceeb97"
+  },
+  "id": 4,
+  "nombre_equipo1": "Equipo G",
+  "nombre_equipo2": "Equipo H",
+  "arbitro": "Monica Castillo",
+  "marcador_equipo1": 5,
+  "marcador_equipo2": 4
+},
+{
+  "_id": {
+    "$oid": "663fcac969fb03cabaceeb98"
+  },
+  "id": 5,
+  "nombre_equipo1": "Equipo A",
+  "nombre_equipo2": "Equipo D",
+  "arbitro": "Jose Rodriguez Bacca",
+  "marcador_equipo1": 2,
+  "marcador_equipo2": 4
+},
+{
+  "_id": {
+    "$oid": "663fcac969fb03cabaceeb99"
+  },
+  "id": 6,
+  "nombre_equipo1": "Equipo F",
+  "nombre_equipo2": "Equipo G",
+  "arbitro": "Katherine Tipaz Calpa",
+  "marcador_equipo1": 5,
+  "marcador_equipo2": 3
+},
+{
+  "_id": {
+    "$oid": "663fcac969fb03cabaceeb9a"
+  },
+  "id": 7,
+  "nombre_equipo1": "Equipo D",
+  "nombre_equipo2": "Equipo F",
+  "arbitro": "Jose Rodriguez Bacca",
+  "marcador_equipo1": 3,
+  "marcador_equipo2": 4
+}]

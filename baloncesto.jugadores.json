@@ -1,0 +1,440 @@
+[{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6ea"
+  },
+  "id": 1234,
+  "nombre": "Daniel",
+  "apellidos": "Hernandez Mejia",
+  "edad": 20,
+  "numero_jugador": 1,
+  "nombre_equipo": "Equipo A"
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6eb"
+  },
+  "id": 1235,
+  "nombre": "Andres",
+  "apellidos": "Diaz Yandun",
+  "edad": 20,
+  "numero_jugador": 2,
+  " nombre_equipo": "Equipo A"
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6ec"
+  },
+  "id": 1236,
+  "nombre": "Roberth",
+  "apellidos": "Pinchao",
+  "edad": 20,
+  "numero_jugador": 3,
+  "nombre_equipo": "Equipo A"
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6ed"
+  },
+  "id": 1237,
+  "nombre": "Cristian",
+  "apellidos": "Castro",
+  "edad": 20,
+  "numero_jugador": 4,
+  "nombre_equipo": "Equipo A"
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6ee"
+  },
+  "id": 1238,
+  "nombre": "Santiago",
+  "apellidos": "Yepez Santacruz",
+  "edad": 18,
+  "numero_jugador": 5,
+  "nombre_equipo": "Equipo A"
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6ef"
+  },
+  "id": 1239,
+  "nombre": "Camilo",
+  "apellidos": "Rosero Ramirez",
+  "edad": 18,
+  "numero_jugador": 6,
+  "nombre_equipo": "Equipo B"
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6f0"
+  },
+  "id": 1230,
+  "nombre": "Sebastian",
+  "apellidos": "Martinez",
+  "edad": 18,
+  "numero_jugador": 7,
+  "nombre_equipo": "Equipo B"
+},
+{
+  "_id": {
+    "$oid": "663f839ca79c890fc36eb6f1"
+  },
+  "id": 1231,
+  "nombre": "Fernando",
+  "apellidos": "Cuastumal Tarapues",
+  "edad": 18,
+  "numero_jugador": 8,
+  "nombre_equipo": "Equipo B"
+},
+{
+  "_id": {
+    "$oid": "663fa7eea79c890fc36eb71f"
+  },
+  "id": 1232,
+  "nombre": "Samuel",
+  "apellidos": "Enrriquez Tutalcha",
+  "edad": 20,
+  "numero_jugador": 9,
+  "nombre_equipo": "Equipo B"
+},
+{
+  "_id": {
+    "$oid": "663fa908a79c890fc36eb720"
+  },
+  "id": 1233,
+  "nombre": "Yobany",
+  "apellidos": "Calpa Puerres",
+  "edad": 19,
+  "numero_jugador": 10,
+  "nombre_equipo": "Equipo B"
+},
+{
+  "_id": {
+    "$oid": "663fa977a79c890fc36eb721"
+  },
+  "id": 1240,
+  "nombre": "Alvaro",
+  "apellidos": "Calpa Calpa",
+  "edad": 20,
+  "numero_jugador": 11,
+  "nombre_equipo": "Equipo C"
+},
+{
+  "_id": {
+    "$oid": "663fa9d9a79c890fc36eb722"
+  },
+  "id": 1241,
+  "nombre": "Santiago",
+  "apellidos": "Villa Muñoz",
+  "edad": 20,
+  "numero_jugador": 12,
+  "nombre_equipo": "Equipo C"
+},
+{
+  "_id": {
+    "$oid": "663faa05a79c890fc36eb723"
+  },
+  "id": 1242,
+  "nombre": "David",
+  "apellidos": "Puetate Reina",
+  "edad": 18,
+  "numero_jugador": 13,
+  "nombre_equipo": "Equipo C"
+},
+{
+  "_id": {
+    "$oid": "663faa4aa79c890fc36eb724"
+  },
+  "id": 1243,
+  "nombre": "Gilberto",
+  "apellidos": "Reina Perrez",
+  "edad": 19,
+  "numero_jugador": 14,
+  "nombre_equipo": "Equipo C"
+},
+{
+  "_id": {
+    "$oid": "663faa82a79c890fc36eb725"
+  },
+  "id": 1244,
+  "nombre": "Alirio",
+  "apellidos": "Poso Escobar",
+  "edad": 20,
+  "numero_jugador": 15,
+  "nombre_equipo": "Equipo C"
+},
+{
+  "_id": {
+    "$oid": "663faab4a79c890fc36eb726"
+  },
+  "id": 1245,
+  "nombre": "Jesus",
+  "apellidos": "Poso Cuatin",
+  "edad": 20,
+  "numero_jugador": 16,
+  "nombre_equipo": "Equipo D"
+},
+{
+  "_id": {
+    "$oid": "663faaf4a79c890fc36eb727"
+  },
+  "id": 1246,
+  "nombre": "David",
+  "apellidos": "Ceballos Trujillo",
+  "edad": 20,
+  "numero_jugador": 17,
+  "nombre_equipo": "Equipo D"
+},
+{
+  "_id": {
+    "$oid": "663fab24a79c890fc36eb728"
+  },
+  "id": 1246,
+  "nombre": "Jaime",
+  "apellidos": "Morales Cabrera",
+  "edad": 20,
+  "numero_jugador": 18,
+  "nombre_equipo": "Equipo D"
+},
+{
+  "_id": {
+    "$oid": "663fab63a79c890fc36eb729"
+  },
+  "id": 1247,
+  "nombre": "Pedro",
+  "apellidos": "Lopez Montero",
+  "edad": 19,
+  "numero_jugador": 19,
+  "nombre_equipo": "Equipo D"
+},
+{
+  "_id": {
+    "$oid": "663fab98a79c890fc36eb72a"
+  },
+  "id": 1248,
+  "nombre": "Diego",
+  "apellidos": "Mena Zapata",
+  "edad": 19,
+  "numero_jugador": 20,
+  "nombre_equipo": "Equipo D"
+},
+{
+  "_id": {
+    "$oid": "663fabd2a79c890fc36eb72b"
+  },
+  "id": 1249,
+  "nombre": "Jorge",
+  "apellidos": "Vargas Valencia",
+  "edad": 19,
+  "numero_jugador": 1,
+  "nombre_equipo": "Equipo E"
+},
+{
+  "_id": {
+    "$oid": "663fac31a79c890fc36eb72c"
+  },
+  "id": 1250,
+  "nombre": "Gustavo",
+  "apellidos": "Castillo Cobos",
+  "edad": 19,
+  "numero_jugador": 2,
+  "nombre_equipo": "Equipo E"
+},
+{
+  "_id": {
+    "$oid": "663faca1a79c890fc36eb72f"
+  },
+  "id": 1251,
+  "nombre": "Javier",
+  "apellidos": "Cuatin Cuatin",
+  "edad": 19,
+  "numero_jugador": 3,
+  "nombre_equipo": "Equipo E"
+},
+{
+  "_id": {
+    "$oid": "663facbda79c890fc36eb730"
+  },
+  "id": 1252,
+  "nombre": "Jose",
+  "apellidos": "Lopez Bravo ",
+  "edad": 20,
+  "numero_jugador": 4,
+  "nombre_equipo": "Equipo E"
+},
+{
+  "_id": {
+    "$oid": "663faf3da79c890fc36eb731"
+  },
+  "id": 1253,
+  "nombre": "Bolivar",
+  "apellidos": "Reina Chamarro ",
+  "edad": 20,
+  "numero_jugador": 5,
+  "nombre_equipo": "Equipo E"
+},
+{
+  "_id": {
+    "$oid": "663faf81a79c890fc36eb732"
+  },
+  "id": 1254,
+  "nombre": "Edison",
+  "apellidos": "Delgado Rodriguez ",
+  "edad": 18,
+  "numero_jugador": 6,
+  "nombre_equipo": "Equipo F"
+},
+{
+  "_id": {
+    "$oid": "663faffcfcef1ab9c55d03e8"
+  },
+  "id": 1255,
+  "nombre": "Mario",
+  "apellidos": "Gonzales Sanchez ",
+  "edad": 18,
+  "numero_jugador": 7,
+  "nombre_equipo": "Equipo F"
+},
+{
+  "_id": {
+    "$oid": "663fb032fcef1ab9c55d03e9"
+  },
+  "id": 1256,
+  "nombre": "Gabriel",
+  "apellidos": "Rios Merchan",
+  "edad": 19,
+  "numero_jugador": 8,
+  "nombre_equipo": "Equipo F"
+},
+{
+  "_id": {
+    "$oid": "663fb05cfcef1ab9c55d03ea"
+  },
+  "id": 1257,
+  "nombre": "Cesar",
+  "apellidos": "Torres Flores",
+  "edad": 19,
+  "numero_jugador": 9,
+  "nombre_equipo": "Equipo F"
+},
+{
+  "_id": {
+    "$oid": "663fb083fcef1ab9c55d03eb"
+  },
+  "id": 1258,
+  "nombre": "Kevin",
+  "apellidos": "Reina Calpa",
+  "edad": 20,
+  "numero_jugador": 10,
+  "nombre_equipo": "Equipo F"
+},
+{
+  "_id": {
+    "$oid": "663fb0abfcef1ab9c55d03ec"
+  },
+  "id": 1259,
+  "nombre": "Daniel",
+  "apellidos": "Cando Cando",
+  "edad": 20,
+  "numero_jugador": 11,
+  "nombre_equipo": "Equipo G"
+},
+{
+  "_id": {
+    "$oid": "663fb0cefcef1ab9c55d03ed"
+  },
+  "id": 1260,
+  "nombre": "Omar",
+  "apellidos": "Rios Cando",
+  "edad": 20,
+  "numero_jugador": 12,
+  "nombre_equipo": "Equipo G"
+},
+{
+  "_id": {
+    "$oid": "663fb10afcef1ab9c55d03ee"
+  },
+  "id": 1261,
+  "nombre": "Bladimir",
+  "apellidos": "Figueroa Cepeda",
+  "edad": 20,
+  "numero_jugador": 13,
+  "nombre_equipo": "Equipo G"
+},
+{
+  "_id": {
+    "$oid": "663fb136fcef1ab9c55d03ef"
+  },
+  "id": 1262,
+  "nombre": "Nelson",
+  "apellidos": "Reyes Garces",
+  "edad": 20,
+  "numero_jugador": 14,
+  "nombre_equipo": "Equipo G"
+},
+{
+  "_id": {
+    "$oid": "663fb166fcef1ab9c55d03f0"
+  },
+  "id": 1263,
+  "nombre": "Fabian",
+  "apellidos": "Goyes Carrion",
+  "edad": 20,
+  "numero_jugador": 15,
+  "nombre_equipo": "Equipo G"
+},
+{
+  "_id": {
+    "$oid": "663fb1a0fcef1ab9c55d03f1"
+  },
+  "id": 1264,
+  "nombre": "Antonio",
+  "apellidos": "Garces Ceballos",
+  "edad": 20,
+  "numero_jugador": 16,
+  "nombre_equipo": "Equipo H"
+},
+{
+  "_id": {
+    "$oid": "663fb1d2fcef1ab9c55d03f2"
+  },
+  "id": 1265,
+  "nombre": "Manuel",
+  "apellidos": "Suares Cruz",
+  "edad": 18,
+  "numero_jugador": 17,
+  "nombre_equipo": "Equipo H"
+},
+{
+  "_id": {
+    "$oid": "663fb201fcef1ab9c55d03f3"
+  },
+  "id": 1266,
+  "nombre": "Hector",
+  "apellidos": "Mera Cedeño",
+  "edad": 18,
+  "numero_jugador": 18,
+  "nombre_equipo": "Equipo H"
+},
+{
+  "_id": {
+    "$oid": "663fb231fcef1ab9c55d03f4"
+  },
+  "id": 1267,
+  "nombre": "Paulo",
+  "apellidos": "Aguas Ortiz",
+  "edad": 18,
+  "numero_jugador": 19,
+  "nombre_equipo": "Equipo H"
+},
+{
+  "_id": {
+    "$oid": "663fb265fcef1ab9c55d03f5"
+  },
+  "id": 12689,
+  "nombre": "Patricio",
+  "apellidos": "Tapia Ramirez",
+  "edad": 18,
+  "numero_jugador": 20,
+  "nombre_equipo": "Equipo H"
+}]

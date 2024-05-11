@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "663fa1a7a79c890fc36eb704"
+  },
+  "id_equipo": 12,
+  "nombre": "Equipo A",
+  "entrenado": "Juan Perez"
+},
+{
+  "_id": {
+    "$oid": "663fa1a7a79c890fc36eb705"
+  },
+  "id_equipo": 13,
+  "nombre": "Equipo B",
+  "entrenado": "Fernando Lopez"
+},
+{
+  "_id": {
+    "$oid": "663fa1a7a79c890fc36eb706"
+  },
+  "id_equipo": 14,
+  "nombre": "Equipo c",
+  "entrenado": "Felipe Martinez"
+},
+{
+  "_id": {
+    "$oid": "663fa1a7a79c890fc36eb707"
+  },
+  "id_equipo": 15,
+  "nombre": "Equipo D",
+  "entrenado": "Carlos Rosero"
+},
+{
+  "_id": {
+    "$oid": "663fa1a7a79c890fc36eb708"
+  },
+  "id_equipo": 16,
+  "nombre": "Equipo E",
+  "entrenado": "Camilo Muñoz"
+},
+{
+  "_id": {
+    "$oid": "663fa1a7a79c890fc36eb709"
+  },
+  "id_equipo": 17,
+  "nombre": "Equipo F",
+  "entrenado": "Andres Mutis"
+},
+{
+  "_id": {
+    "$oid": "663fa1a7a79c890fc36eb70a"
+  },
+  "id_equipo": 18,
+  "nombre": "Equipo G",
+  "entrenado": "Danilo Reina"
+},
+{
+  "_id": {
+    "$oid": "663fa1a7a79c890fc36eb70b"
+  },
+  "id_equipo": 19,
+  "nombre": "Equipo H",
+  "entrenado": "Pablo Termal"
+}]

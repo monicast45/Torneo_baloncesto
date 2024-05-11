@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663f8ac1a79c890fc36eb6fc"
+  },
+  "id": 741,
+  "nombre": "Katherine",
+  "apellidos": "Tipaz Calpa"
+},
+{
+  "_id": {
+    "$oid": "663f8ac1a79c890fc36eb6fd"
+  },
+  "id": 963,
+  "nombre": "Monica",
+  "apellidos": "Castillo Ortega"
+},
+{
+  "_id": {
+    "$oid": "663f8ac1a79c890fc36eb6fe"
+  },
+  "id": 852,
+  "nombre": "Hernan",
+  "apellidos": "Mejia Serrano"
+},
+{
+  "_id": {
+    "$oid": "663f8ac1a79c890fc36eb6ff"
+  },
+  "id": 123,
+  "nombre": "Tatiana",
+  "apellidos": "Goyes"
+},
+{
+  "_id": {
+    "$oid": "663f8ac1a79c890fc36eb700"
+  },
+  "id": 789,
+  "nombre": "Jose",
+  "apellidos": "Rodriguez Bacca"
+}]

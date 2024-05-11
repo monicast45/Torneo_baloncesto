@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "663fa48ca79c890fc36eb70f"
+  },
+  "id": 456,
+  "nombre": "Juan Perez"
+},
+{
+  "_id": {
+    "$oid": "663fa48ca79c890fc36eb710"
+  },
+  "id": 789,
+  "nombre": "Fernando Lopez"
+},
+{
+  "_id": {
+    "$oid": "663fa48ca79c890fc36eb711"
+  },
+  "id": 645,
+  "nombre": "Felipe Matinez"
+},
+{
+  "_id": {
+    "$oid": "663fa48ca79c890fc36eb712"
+  },
+  "id": 239,
+  "nombre": "Carlos Rosero"
+},
+{
+  "_id": {
+    "$oid": "663fa48ca79c890fc36eb713"
+  },
+  "id": 432,
+  "nombre": "Camilo Muñoz"
+},
+{
+  "_id": {
+    "$oid": "663fa48ca79c890fc36eb714"
+  },
+  "id": 567,
+  "nombre": "Andres Mutis"
+},
+{
+  "_id": {
+    "$oid": "663fa48ca79c890fc36eb715"
+  },
+  "id": 289,
+  "nombre": "Danilo Reina"
+},
+{
+  "_id": {
+    "$oid": "663fa48ca79c890fc36eb716"
+  },
+  "id": 478,
+  "nombre": "Pablo Termal"
+}]
