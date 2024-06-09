@@ -1,0 +1,71 @@
+
+MONICA@LAPTOP-2FM1RP0F MINGW64 ~/Desktop/torneob
+$ git init
+Initialized empty Git repository in C:/Users/MONICA/Desktop/torneob/.git/
+
+MONICA@LAPTOP-2FM1RP0F MINGW64 ~/Desktop/torneob (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        baloncesto.arbitros.json
+        baloncesto.encuentros_deportivos.json
+        baloncesto.entrenadores.json
+        baloncesto.equipos.json
+        baloncesto.jugadores.json
+        baloncesto.resultados.json
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+MONICA@LAPTOP-2FM1RP0F MINGW64 ~/Desktop/torneob (master)
+$ git add .
+warning: in the working copy of 'baloncesto.arbitros.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'baloncesto.encuentros_deportivos.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'baloncesto.entrenadores.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'baloncesto.equipos.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'baloncesto.jugadores.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'baloncesto.resultados.json', LF will be replaced by CRLF the next time Git touches it
+
+MONICA@LAPTOP-2FM1RP0F MINGW64 ~/Desktop/torneob (master)
+$ git commit -m "first commit"
+[master (root-commit) 410427d] first commit
+ 6 files changed, 740 insertions(+)
+ create mode 100644 baloncesto.arbitros.json
+ create mode 100644 baloncesto.encuentros_deportivos.json
+ create mode 100644 baloncesto.entrenadores.json
+ create mode 100644 baloncesto.equipos.json
+ create mode 100644 baloncesto.jugadores.json
+ create mode 100644 baloncesto.resultados.json
+
+MONICA@LAPTOP-2FM1RP0F MINGW64 ~/Desktop/torneob (master)
+$ git remote add origin https://github.com/monicast45/Torneo_baloncesto.git
+
+MONICA@LAPTOP-2FM1RP0F MINGW64 ~/Desktop/torneob (master)
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/monicast45/Torneo_baloncesto.git'
+
+MONICA@LAPTOP-2FM1RP0F MINGW64 ~/Desktop/torneob (master)
+$ ^[[200~git branch -M main~
+bash: $'\E[200~git': command not found
+
+MONICA@LAPTOP-2FM1RP0F MINGW64 ~/Desktop/torneob (master)
+$ git branch -M main
+
+MONICA@LAPTOP-2FM1RP0F MINGW64 ~/Desktop/torneob (main)
+$ git push -u origin main
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (8/8), 2.87 KiB | 366.00 KiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/monicast45/Torneo_baloncesto.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+MONICA@LAPTOP-2FM1RP0F MINGW64 ~/Desktop/torneob (main)
+$
